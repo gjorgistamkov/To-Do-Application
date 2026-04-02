@@ -1,4 +1,4 @@
-# Todo Application
+# To Do Application
 
 This is a full‑stack AI‑powered Todo app built with Cursor using React + Vite, Node.js + Express, and MongoDB.
 The project includes user authentication, task management, and a clean dark‑mode UI with purple accents, fully responsive on both desktop and mobile devices.
