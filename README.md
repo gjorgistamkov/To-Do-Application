@@ -68,17 +68,17 @@ The project includes user authentication, task management, and a clean dark‑mo
   npm run dev
   ```
   
-- **Backend runs on http://localhost:4000 (API: http://localhost:4000/api).
-- **Frontend runs on http://localhost:5173.
+- Backend runs on http://localhost:4000 (API: http://localhost:4000/api).
+- Frontend runs on http://localhost:5173.
 
 ---
 
 ## 📋 Usage
 
-- **Open the app at http://localhost:5173.
-- **Register or log in using the auth forms.
-- **Once logged in, create, edit, and delete todos from the task list.
-- **The backend protects all todo routes; unauthenticated users will be blocked.
+- Open the app at http://localhost:5173.
+- Register or log in using the auth forms.
+- Once logged in, create, edit, and delete todos from the task list.
+- The backend protects all todo routes; unauthenticated users will be blocked.
 
 ---
 
